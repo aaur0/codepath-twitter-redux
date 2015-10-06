@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "83AD252E0FD3A67BBFCCE77D3DA56875DCE0E641",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "83AD252E0FD3A67BBFCCE77D3DA56875DCE0E641" : 0,
+    "8C08A002045C4C303C063C118BB4E0F3C674E6FF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "24859275-7D8B-42F3-BFCB-9767DC2548A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "83AD252E0FD3A67BBFCCE77D3DA56875DCE0E641" : "TwitterClient\/",
+    "8C08A002045C4C303C063C118BB4E0F3C674E6FF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TwitterClient",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TwitterClient.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:aaur0\/ios-codepath-project3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83AD252E0FD3A67BBFCCE77D3DA56875DCE0E641"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:aaur0\/Yoscore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C08A002045C4C303C063C118BB4E0F3C674E6FF"
+    }
+  ]
+}
