@@ -30,4 +30,4 @@ Time spent: `10 Hours`
 
 ### Walkthrough
 
-![Video Walkthrough](https://raw.githubusercontent.com/mvinceable/twitter/master/demo.gif)
+![Video Walkthrough](https://github.com/aaur0/codepath-twitter-redux/blob/master/twitter-redux.gif)
